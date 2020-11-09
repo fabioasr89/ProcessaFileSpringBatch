@@ -1,0 +1,13 @@
+Di questo passo prosegue, caricando ogni volta il piatto pi´u in alto
+fino a farlo diventare il pi´u basso.
+Ogni volta la differenza dei pesi di un piatto rispetto a quelli
+dell’altro approssima il peso della merce: l’errore ´e, ogni volta
+minore dell’ultimo pesetto aggiunto per invertire la reciproca
+posizione dei due piatti.
+Certo per far fronte a qualsiasi quantit´a di merce l’onesto
+commerciante dovr´a disporre di tanti pesi rossi.... e dovendo
+riequilibrare ogni volta dovr´a disporre anche di... tanti pesi blu.
+Se la lunga fila di pesi disponibili contiene pesi via via pi´u piccoli si
+capisce che le approssimazioni del peso della merce ottenute
+saranno sempre migliori, e l’onesto commerciante si sentir´a
+giustamente con la coscienza a posto.
